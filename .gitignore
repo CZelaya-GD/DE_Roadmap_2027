@@ -23,3 +23,9 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
